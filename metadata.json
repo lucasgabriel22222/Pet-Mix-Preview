@@ -1,0 +1,6 @@
+{
+  "name": "Pet Shop Agro-pet Mix",
+  "description": "Site oficial do Pet Shop Agro-pet Mix em Arapongas - PR. Banho e tosa, rações premium, farmácia veterinária, acessórios pet e disk-entrega.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
